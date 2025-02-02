@@ -8,16 +8,28 @@ This project uses the following technologies and tools:
 
 Frontend:
 React: JavaScript library for building user interfaces.
+
 Redux: State management library to manage the application's state across components.
+
 React Router: Library for routing, enabling navigation between different views within the application.
+
 Babel: JavaScript transpiler used for converting JSX and ES6+ syntax to browser-compatible JavaScript.
+
 Webpack: A module bundler that compiles JavaScript files and assets, optimizing them for production.
+
 CSS: The app is styled using simple CSS and PostCSS for CSS pre-processing.
-Socket.IO: For real-time communication between the client and server (if implemented).
+
+Socket.IO: For real-time communication between the client and server.
+
+
 Backend:
+
 Node.js: JavaScript runtime used for backend development.
+
 Express: A web framework for building APIs and handling server-side logic.
+
 MongoDB: NoSQL database for storing votes, users, and other app data.
+
 Mongoose: An ODM (Object Data Modeling) library for MongoDB and Node.js.
 
 Usage
